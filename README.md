@@ -1,5 +1,5 @@
-# whitepaper-business
-Abstract. The next generation of tightly interconnected vehicles oers
+# Abstract.
+ The next generation of tightly interconnected vehicles oers
 a variety of new technological as well as business opportunities. Vehicles
 form so called vehicular ad-hoc networks (VANETs) in order to enable
 vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), vehicle-tohuman
