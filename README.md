@@ -13,3 +13,5 @@ required to kick-start the upcoming V2X economy.
 
 We present the advantages of the system, outline the requirements and goals, as well as the architecture of the Chorus V2X platform and eco-system. In addition, we present a prototype that demonstrates how our system helps mitigating traffic congestions and at the same time provides a mean to car insurance companies to incentivize their customers to practice good
 driving behavior.
+
+All Rights Reserved. Proof-of-Stake Inc.
